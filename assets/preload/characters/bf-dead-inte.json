@@ -2,40 +2,29 @@
 	"animations": [
 		{
 			"offsets": [
-				37,
-				11
+				0,
+				0
 			],
-			"loop": true,
+			"indices": [],
 			"fps": 24,
 			"anim": "deathLoop",
+			"loop": true,
+			"name": "deathLoop"
+		},
+		{
+			"offsets": [
+				10,
+				1
+			],
 			"indices": [],
-			"name": "BF Dead Loop"
-		},
-		{
-			"loop": false,
-			"offsets": [
-				37,
-				11
-			],
-			"anim": "firstDeath",
 			"fps": 24,
-			"name": "BF DIES",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				37,
-				36
-			],
 			"anim": "deathConfirm",
-			"fps": 24,
-			"name": "BF Dead Confirm",
-			"indices": []
+			"loop": false,
+			"name": "deathConfirm"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/BOYFRIEND_DEAD",
+	"image": "characters/Interrogation GameOver",
 	"position": [
 		0,
 		350

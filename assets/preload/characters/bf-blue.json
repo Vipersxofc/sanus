@@ -2,19 +2,8 @@
 	"animations": [
 		{
 			"offsets": [
-				-5,
-				0
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "idle",
-			"indices": [],
-			"name": "BF idle dance"
-		},
-		{
-			"offsets": [
 				15,
-				2
+				8
 			],
 			"loop": false,
 			"fps": 24,
@@ -36,7 +25,7 @@
 		{
 			"offsets": [
 				-20,
-				52
+				51
 			],
 			"loop": false,
 			"fps": 24,
@@ -46,7 +35,7 @@
 		},
 		{
 			"offsets": [
-				-14,
+				-16,
 				5
 			],
 			"loop": false,
@@ -58,7 +47,7 @@
 		{
 			"offsets": [
 				15,
-				9
+				10
 			],
 			"loop": false,
 			"fps": 24,
@@ -80,7 +69,7 @@
 		{
 			"offsets": [
 				-6,
-				57
+				63
 			],
 			"loop": false,
 			"fps": 24,
@@ -98,10 +87,21 @@
 			"anim": "singRIGHTmiss",
 			"indices": [],
 			"name": "BF NOTE RIGHT MISS"
+		},
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "BF idle dance"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/BOYFRIEND",
+	"image": "characters/BF_BLUE",
 	"position": [
 		0,
 		350

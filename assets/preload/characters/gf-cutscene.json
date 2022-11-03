@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				-8
+			],
+			"anim": "firstCutscene",
+			"fps": 24,
+			"name": "GF Blue Cutscene 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				-16
+			],
+			"anim": "endCutscene",
+			"fps": 24,
+			"name": "GF Blue Cutscene 2",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/GF_BLUE_SHIT",
+	"position": [
+		80,
+		30
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1.3
+}

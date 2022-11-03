@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Horror Idle"
+		},
+		{
+			"offsets": [
+				90,
+				-65
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Horror Left"
+		},
+		{
+			"offsets": [
+				-17,
+				-79
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Horror Down"
+		},
+		{
+			"offsets": [
+				-50,
+				50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Horror Up"
+		},
+		{
+			"offsets": [
+				85,
+				-45
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Horror Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Horror_Assets",
+	"position": [
+		-80,
+		110
+	],
+	"healthicon": "horror",
+	"flip_x": false,
+	"healthbar_colors": [
+		59,
+		51,
+		112
+	],
+	"camera_position": [
+		110,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
