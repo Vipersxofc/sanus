@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Horse.png">
+<SubTexture name="horse transition0000" x="0" y="0" width="309" height="510" frameX="0" frameY="0" frameWidth="301" frameHeight="502" />
+<SubTexture name="horse transition0001" x="0" y="0" width="309" height="510" frameX="0" frameY="0" frameWidth="301" frameHeight="502" />
+<SubTexture name="horse transition0002" x="309" y="0" width="309" height="510" frameX="0" frameY="0" frameWidth="301" frameHeight="502" />
+<SubTexture name="horse transition0003" x="309" y="0" width="309" height="510" frameX="0" frameY="0" frameWidth="301" frameHeight="502" />
+<SubTexture name="horse transition0004" x="618" y="0" width="309" height="510" frameX="0" frameY="0" frameWidth="301" frameHeight="502" />
+<SubTexture name="horse transition0005" x="618" y="0" width="309" height="510" frameX="0" frameY="0" frameWidth="301" frameHeight="502" />
+<SubTexture name="horse transition0006" x="0" y="510" width="309" height="510" frameX="0" frameY="0" frameWidth="301" frameHeight="502" />
+<SubTexture name="horse transition0007" x="0" y="510" width="309" height="510" frameX="0" frameY="0" frameWidth="301" frameHeight="502" />
+<SubTexture name="horse0000" x="309" y="510" width="310" height="510" frameX="0" frameY="-3" frameWidth="302" frameHeight="505" />
+<SubTexture name="horse0001" x="309" y="510" width="310" height="510" frameX="0" frameY="-3" frameWidth="302" frameHeight="505" />
+<SubTexture name="horse0002" x="619" y="510" width="310" height="513" frameX="0" frameY="0" frameWidth="302" frameHeight="505" />
+<SubTexture name="horse0003" x="619" y="510" width="310" height="513" frameX="0" frameY="0" frameWidth="302" frameHeight="505" />
+<SubTexture name="horse0004" x="309" y="510" width="310" height="510" frameX="0" frameY="-3" frameWidth="302" frameHeight="505" />
+<SubTexture name="horse0005" x="309" y="510" width="310" height="510" frameX="0" frameY="-3" frameWidth="302" frameHeight="505" />
+<SubTexture name="horse0006" x="619" y="510" width="310" height="513" frameX="0" frameY="0" frameWidth="302" frameHeight="505" />
+<SubTexture name="horse0007" x="619" y="510" width="310" height="513" frameX="0" frameY="0" frameWidth="302" frameHeight="505" />
+<SubTexture name="horse0008" x="309" y="510" width="310" height="510" frameX="0" frameY="-3" frameWidth="302" frameHeight="505" />
+<SubTexture name="horse0009" x="309" y="510" width="310" height="510" frameX="0" frameY="-3" frameWidth="302" frameHeight="505" />
+<SubTexture name="horse0010" x="619" y="510" width="310" height="513" frameX="0" frameY="0" frameWidth="302" frameHeight="505" />
+<SubTexture name="horse0011" x="619" y="510" width="310" height="513" frameX="0" frameY="0" frameWidth="302" frameHeight="505" />
+<SubTexture name="horse0012" x="309" y="510" width="310" height="510" frameX="0" frameY="-3" frameWidth="302" frameHeight="505" />
+<SubTexture name="horse0013" x="309" y="510" width="310" height="510" frameX="0" frameY="-3" frameWidth="302" frameHeight="505" />
+</TextureAtlas>

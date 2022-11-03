@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Dog.png">
+<SubTexture name="dog transition0000" x="0" y="0" width="899" height="740" frameX="0" frameY="0" frameWidth="891" frameHeight="732" />
+<SubTexture name="dog transition0001" x="0" y="0" width="899" height="740" frameX="0" frameY="0" frameWidth="891" frameHeight="732" />
+<SubTexture name="dog transition0002" x="899" y="0" width="899" height="740" frameX="0" frameY="0" frameWidth="891" frameHeight="732" />
+<SubTexture name="dog transition0003" x="899" y="0" width="899" height="740" frameX="0" frameY="0" frameWidth="891" frameHeight="732" />
+<SubTexture name="dog transition0004" x="0" y="740" width="899" height="740" frameX="0" frameY="0" frameWidth="891" frameHeight="732" />
+<SubTexture name="dog transition0005" x="0" y="740" width="899" height="740" frameX="0" frameY="0" frameWidth="891" frameHeight="732" />
+<SubTexture name="dog transition0006" x="899" y="740" width="899" height="740" frameX="0" frameY="0" frameWidth="891" frameHeight="732" />
+<SubTexture name="dog transition0007" x="899" y="740" width="899" height="740" frameX="0" frameY="0" frameWidth="891" frameHeight="732" />
+<SubTexture name="dog0000" x="899" y="740" width="899" height="740" frameX="0" frameY="0" frameWidth="892" frameHeight="732" />
+<SubTexture name="dog0001" x="899" y="740" width="899" height="740" frameX="0" frameY="0" frameWidth="892" frameHeight="732" />
+<SubTexture name="dog0002" x="0" y="1480" width="900" height="740" frameX="0" frameY="0" frameWidth="892" frameHeight="732" />
+<SubTexture name="dog0003" x="0" y="1480" width="900" height="740" frameX="0" frameY="0" frameWidth="892" frameHeight="732" />
+<SubTexture name="dog0004" x="899" y="740" width="899" height="740" frameX="0" frameY="0" frameWidth="892" frameHeight="732" />
+<SubTexture name="dog0005" x="899" y="740" width="899" height="740" frameX="0" frameY="0" frameWidth="892" frameHeight="732" />
+<SubTexture name="dog0006" x="0" y="1480" width="900" height="740" frameX="0" frameY="0" frameWidth="892" frameHeight="732" />
+<SubTexture name="dog0007" x="0" y="1480" width="900" height="740" frameX="0" frameY="0" frameWidth="892" frameHeight="732" />
+<SubTexture name="dog0008" x="899" y="740" width="899" height="740" frameX="0" frameY="0" frameWidth="892" frameHeight="732" />
+<SubTexture name="dog0009" x="899" y="740" width="899" height="740" frameX="0" frameY="0" frameWidth="892" frameHeight="732" />
+<SubTexture name="dog0010" x="0" y="1480" width="900" height="740" frameX="0" frameY="0" frameWidth="892" frameHeight="732" />
+<SubTexture name="dog0011" x="0" y="1480" width="900" height="740" frameX="0" frameY="0" frameWidth="892" frameHeight="732" />
+<SubTexture name="dog0012" x="899" y="740" width="899" height="740" frameX="0" frameY="0" frameWidth="892" frameHeight="732" />
+<SubTexture name="dog0013" x="899" y="740" width="899" height="740" frameX="0" frameY="0" frameWidth="892" frameHeight="732" />
+</TextureAtlas>
