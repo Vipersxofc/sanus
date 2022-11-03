@@ -1,0 +1,21 @@
+{
+	"songs": [
+		["Time-Flies", "horror", [59, 51, 112]],
+		["Interrogation", "freeplay", [59, 51, 112]]
+	],
+
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "",
+
+	"storyName": "horrorWeek",
+	"weekBefore": "horrowWeek",
+	"weekName": "The long period of hunger",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}
