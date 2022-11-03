@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="interrogation Sans.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Down0000" x="0" y="0" width="463" height="542"/>
+	<SubTexture name="Down0001" x="0" y="0" width="463" height="542"/>
+	<SubTexture name="Down0002" x="467" y="0" width="463" height="542"/>
+	<SubTexture name="Down0003" x="467" y="0" width="463" height="542"/>
+	<SubTexture name="Down0004" x="934" y="0" width="463" height="542"/>
+	<SubTexture name="Down0005" x="934" y="0" width="463" height="542"/>
+	<SubTexture name="Down0006" x="934" y="0" width="463" height="542"/>
+	<SubTexture name="Down0007" x="934" y="0" width="463" height="542"/>
+	<SubTexture name="Down0008" x="934" y="0" width="463" height="542"/>
+	<SubTexture name="Down0009" x="934" y="0" width="463" height="542"/>
+	<SubTexture name="Down0010" x="934" y="0" width="463" height="542"/>
+	<SubTexture name="Down0011" x="934" y="0" width="463" height="542"/>
+	<SubTexture name="Escuridao0000" x="1401" y="0" width="423" height="563"/>
+	<SubTexture name="Escuridao0001" x="1401" y="0" width="423" height="563"/>
+	<SubTexture name="Escuridao0002" x="1828" y="0" width="423" height="563"/>
+	<SubTexture name="Escuridao0003" x="1828" y="0" width="423" height="563"/>
+	<SubTexture name="Escuridao0004" x="2255" y="0" width="423" height="563"/>
+	<SubTexture name="Escuridao0005" x="2255" y="0" width="423" height="563"/>
+	<SubTexture name="Escuridao0006" x="2255" y="0" width="423" height="563"/>
+	<SubTexture name="Escuridao0007" x="2255" y="0" width="423" height="563"/>
+	<SubTexture name="Escuridao0008" x="2682" y="0" width="423" height="563"/>
+	<SubTexture name="Escuridao0009" x="2682" y="0" width="423" height="563"/>
+	<SubTexture name="Idle0000" x="3109" y="0" width="426" height="564"/>
+	<SubTexture name="Idle0001" x="3109" y="0" width="426" height="564"/>
+	<SubTexture name="Idle0002" x="3109" y="0" width="426" height="564"/>
+	<SubTexture name="Idle0003" x="3109" y="0" width="426" height="564"/>
+	<SubTexture name="Idle0004" x="3109" y="0" width="426" height="564"/>
+	<SubTexture name="Idle0005" x="3109" y="0" width="426" height="564"/>
+	<SubTexture name="Idle0006" x="3539" y="0" width="426" height="564"/>
+	<SubTexture name="Idle0007" x="3539" y="0" width="426" height="564"/>
+	<SubTexture name="Idle0008" x="3539" y="0" width="426" height="564"/>
+	<SubTexture name="Idle0009" x="3539" y="0" width="426" height="564"/>
+	<SubTexture name="Idle0010" x="3539" y="0" width="426" height="564"/>
+	<SubTexture name="Idle0011" x="3539" y="0" width="426" height="564"/>
+	<SubTexture name="Left0000" x="3969" y="0" width="438" height="556"/>
+	<SubTexture name="Left0001" x="3969" y="0" width="438" height="556"/>
+	<SubTexture name="Left0002" x="4411" y="0" width="438" height="556"/>
+	<SubTexture name="Left0003" x="4411" y="0" width="438" height="556"/>
+	<SubTexture name="Left0004" x="4853" y="0" width="438" height="556"/>
+	<SubTexture name="Left0005" x="4853" y="0" width="438" height="556"/>
+	<SubTexture name="Left0006" x="4853" y="0" width="438" height="556"/>
+	<SubTexture name="Left0007" x="4853" y="0" width="438" height="556"/>
+	<SubTexture name="Left0008" x="4853" y="0" width="438" height="556"/>
+	<SubTexture name="Left0009" x="4853" y="0" width="438" height="556"/>
+	<SubTexture name="Left0010" x="4853" y="0" width="438" height="556"/>
+	<SubTexture name="Left0011" x="4853" y="0" width="438" height="556"/>
+	<SubTexture name="Left0012" x="4853" y="0" width="438" height="556"/>
+	<SubTexture name="Left0013" x="4853" y="0" width="438" height="556"/>
+	<SubTexture name="Right0000" x="5295" y="0" width="430" height="540"/>
+	<SubTexture name="Right0001" x="5295" y="0" width="430" height="540"/>
+	<SubTexture name="Right0002" x="5729" y="0" width="430" height="540"/>
+	<SubTexture name="Right0003" x="5729" y="0" width="430" height="540"/>
+	<SubTexture name="Right0004" x="6163" y="0" width="430" height="540"/>
+	<SubTexture name="Right0005" x="6163" y="0" width="430" height="540"/>
+	<SubTexture name="Right0006" x="6163" y="0" width="430" height="540"/>
+	<SubTexture name="Right0007" x="6163" y="0" width="430" height="540"/>
+	<SubTexture name="Right0008" x="6163" y="0" width="430" height="540"/>
+	<SubTexture name="Right0009" x="6163" y="0" width="430" height="540"/>
+	<SubTexture name="Right0010" x="6163" y="0" width="430" height="540"/>
+	<SubTexture name="Right0011" x="6163" y="0" width="430" height="540"/>
+	<SubTexture name="Right0012" x="6163" y="0" width="430" height="540"/>
+	<SubTexture name="Right0013" x="6163" y="0" width="430" height="540"/>
+	<SubTexture name="Smile0000" x="6597" y="0" width="438" height="565"/>
+	<SubTexture name="Smile0001" x="6597" y="0" width="438" height="565"/>
+	<SubTexture name="Smile0002" x="7039" y="0" width="438" height="565"/>
+	<SubTexture name="Smile0003" x="7039" y="0" width="438" height="565"/>
+	<SubTexture name="Smile0004" x="0" y="569" width="438" height="565"/>
+	<SubTexture name="Smile0005" x="0" y="569" width="438" height="565"/>
+	<SubTexture name="Smile0006" x="442" y="569" width="438" height="565"/>
+	<SubTexture name="Smile0007" x="442" y="569" width="438" height="565"/>
+	<SubTexture name="Smile0008" x="884" y="569" width="438" height="565"/>
+	<SubTexture name="Smile0009" x="884" y="569" width="438" height="565"/>
+	<SubTexture name="Smile0010" x="1326" y="569" width="438" height="565"/>
+	<SubTexture name="Smile0011" x="1326" y="569" width="438" height="565"/>
+	<SubTexture name="Up0000" x="1768" y="569" width="420" height="608"/>
+	<SubTexture name="Up0001" x="1768" y="569" width="420" height="608"/>
+	<SubTexture name="Up0002" x="2192" y="569" width="420" height="608"/>
+	<SubTexture name="Up0003" x="2192" y="569" width="420" height="608"/>
+	<SubTexture name="Up0004" x="2616" y="569" width="420" height="608"/>
+	<SubTexture name="Up0005" x="2616" y="569" width="420" height="608"/>
+	<SubTexture name="Up0006" x="2616" y="569" width="420" height="608"/>
+	<SubTexture name="Up0007" x="2616" y="569" width="420" height="608"/>
+	<SubTexture name="Up0008" x="2616" y="569" width="420" height="608"/>
+	<SubTexture name="Up0009" x="2616" y="569" width="420" height="608"/>
+	<SubTexture name="Up0010" x="2616" y="569" width="420" height="608"/>
+	<SubTexture name="Up0011" x="2616" y="569" width="420" height="608"/>
+	<SubTexture name="Up0012" x="2616" y="569" width="420" height="608"/>
+	<SubTexture name="Up0013" x="2616" y="569" width="420" height="608"/>
+	<SubTexture name="dedos batendo na mesa0000" x="3040" y="569" width="425" height="565"/>
+	<SubTexture name="dedos batendo na mesa0001" x="3040" y="569" width="425" height="565"/>
+	<SubTexture name="dedos batendo na mesa0002" x="3469" y="569" width="425" height="565"/>
+	<SubTexture name="dedos batendo na mesa0003" x="3469" y="569" width="425" height="565"/>
+	<SubTexture name="dedos batendo na mesa0004" x="3898" y="569" width="425" height="565"/>
+	<SubTexture name="dedos batendo na mesa0005" x="3898" y="569" width="425" height="565"/>
+	<SubTexture name="dedos batendo na mesa0006" x="4327" y="569" width="425" height="565"/>
+	<SubTexture name="dedos batendo na mesa0007" x="4327" y="569" width="425" height="565"/>
+	<SubTexture name="dedos batendo na mesa0008" x="4756" y="569" width="425" height="565"/>
+	<SubTexture name="dedos batendo na mesa0009" x="4756" y="569" width="425" height="565"/>
+	<SubTexture name="dedos batendo na mesa0010" x="5185" y="569" width="425" height="565"/>
+	<SubTexture name="dedos batendo na mesa0011" x="5185" y="569" width="425" height="565"/>
+	<SubTexture name="dedos batendo na mesa0012" x="5614" y="569" width="425" height="565"/>
+	<SubTexture name="dedos batendo na mesa0013" x="5614" y="569" width="425" height="565"/>
+	<SubTexture name="dedos batendo na mesa0014" x="6043" y="569" width="425" height="565"/>
+	<SubTexture name="dedos batendo na mesa0015" x="6043" y="569" width="425" height="565"/>
+	<SubTexture name="dedos batendo na mesa0016" x="6472" y="569" width="425" height="565"/>
+	<SubTexture name="dedos batendo na mesa0017" x="6472" y="569" width="425" height="565"/>
+	<SubTexture name="dedos batendo na mesa0018" x="3040" y="569" width="425" height="565"/>
+	<SubTexture name="dedos batendo na mesa0019" x="3040" y="569" width="425" height="565"/>
+</TextureAtlas>

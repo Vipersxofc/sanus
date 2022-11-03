@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Human_Blood.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Cleaning Blood0000" x="0" y="0" width="541" height="532"/>
+	<SubTexture name="Cleaning Blood0001" x="0" y="0" width="541" height="532"/>
+	<SubTexture name="Cleaning Blood0002" x="0" y="0" width="541" height="532"/>
+	<SubTexture name="Cleaning Blood0003" x="0" y="0" width="541" height="532"/>
+	<SubTexture name="Cleaning Blood0004" x="545" y="0" width="541" height="532"/>
+	<SubTexture name="Cleaning Blood0005" x="545" y="0" width="541" height="532"/>
+	<SubTexture name="Cleaning Blood0006" x="1090" y="0" width="541" height="532"/>
+	<SubTexture name="Cleaning Blood0007" x="1090" y="0" width="541" height="532"/>
+	<SubTexture name="Cleaning Blood0008" x="1090" y="0" width="541" height="532"/>
+	<SubTexture name="Cleaning Blood0009" x="1090" y="0" width="541" height="532"/>
+	<SubTexture name="Cleaning Blood0010" x="1635" y="0" width="541" height="532"/>
+	<SubTexture name="Cleaning Blood0011" x="1635" y="0" width="541" height="532"/>
+	<SubTexture name="Cleaning Blood0012" x="2180" y="0" width="541" height="532"/>
+	<SubTexture name="Cleaning Blood0013" x="2180" y="0" width="541" height="532"/>
+	<SubTexture name="Cleaning Blood0014" x="2725" y="0" width="541" height="532"/>
+	<SubTexture name="Cleaning Blood0015" x="2725" y="0" width="541" height="532"/>
+	<SubTexture name="Cleaning Blood0016" x="3270" y="0" width="541" height="532"/>
+	<SubTexture name="Cleaning Blood0017" x="3270" y="0" width="541" height="532"/>
+	<SubTexture name="Cleaning Blood0018" x="0" y="536" width="541" height="532"/>
+	<SubTexture name="Cleaning Blood0019" x="0" y="536" width="541" height="532"/>
+	<SubTexture name="Cleaning Blood0020" x="545" y="536" width="541" height="532"/>
+	<SubTexture name="Cleaning Blood0021" x="545" y="536" width="541" height="532"/>
+	<SubTexture name="Cleaning Blood0022" x="1090" y="536" width="541" height="532"/>
+	<SubTexture name="Cleaning Blood0023" x="1635" y="536" width="541" height="532"/>
+	<SubTexture name="Cleaning Blood0024" x="1635" y="536" width="541" height="532"/>
+	<SubTexture name="Cleaning Blood0025" x="2180" y="536" width="541" height="532"/>
+	<SubTexture name="Cleaning Blood0026" x="2180" y="536" width="541" height="532"/>
+	<SubTexture name="Cleaning Blood0027" x="2725" y="536" width="541" height="532"/>
+	<SubTexture name="Cleaning Blood0028" x="3270" y="536" width="541" height="532"/>
+	<SubTexture name="Cleaning Blood0029" x="3270" y="536" width="541" height="532"/>
+	<SubTexture name="Cleaning Blood0030" x="0" y="1072" width="541" height="532"/>
+	<SubTexture name="Cleaning Blood0031" x="0" y="1072" width="541" height="532"/>
+	<SubTexture name="Cleaning Blood0032" x="545" y="1072" width="541" height="532"/>
+	<SubTexture name="Cleaning Blood0033" x="545" y="1072" width="541" height="532"/>
+	<SubTexture name="Cleaning Blood0034" x="1090" y="1072" width="541" height="532"/>
+	<SubTexture name="Cleaning Blood0035" x="1635" y="1072" width="541" height="532"/>
+	<SubTexture name="Cleaning Blood0036" x="1635" y="1072" width="541" height="532"/>
+</TextureAtlas>

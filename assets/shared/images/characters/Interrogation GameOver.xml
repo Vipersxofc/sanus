@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Interrogation GameOver.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="deathConfirm0000" x="0" y="0" width="711" height="617"/>
+	<SubTexture name="deathConfirm0001" x="0" y="0" width="711" height="617"/>
+	<SubTexture name="deathConfirm0002" x="0" y="0" width="711" height="617"/>
+	<SubTexture name="deathConfirm0003" x="715" y="0" width="711" height="617"/>
+	<SubTexture name="deathConfirm0004" x="1430" y="0" width="711" height="617"/>
+	<SubTexture name="deathConfirm0005" x="1430" y="0" width="711" height="617"/>
+	<SubTexture name="deathConfirm0006" x="2145" y="0" width="711" height="617"/>
+	<SubTexture name="deathConfirm0007" x="2145" y="0" width="711" height="617"/>
+	<SubTexture name="deathConfirm0008" x="2860" y="0" width="711" height="617"/>
+	<SubTexture name="deathConfirm0009" x="2860" y="0" width="711" height="617"/>
+	<SubTexture name="deathConfirm0010" x="3575" y="0" width="711" height="617"/>
+	<SubTexture name="deathConfirm0011" x="3575" y="0" width="711" height="617"/>
+	<SubTexture name="deathConfirm0012" x="4290" y="0" width="711" height="617"/>
+	<SubTexture name="deathConfirm0013" x="4290" y="0" width="711" height="617"/>
+	<SubTexture name="deathConfirm0014" x="5005" y="0" width="711" height="617"/>
+	<SubTexture name="deathConfirm0015" x="5005" y="0" width="711" height="617"/>
+	<SubTexture name="deathConfirm0016" x="5005" y="0" width="711" height="617"/>
+	<SubTexture name="deathConfirm0017" x="5005" y="0" width="711" height="617"/>
+	<SubTexture name="deathConfirm0018" x="5005" y="0" width="711" height="617"/>
+	<SubTexture name="deathLoop0000" x="5720" y="0" width="694" height="616"/>
+	<SubTexture name="deathLoop0001" x="5720" y="0" width="694" height="616"/>
+	<SubTexture name="deathLoop0002" x="5720" y="0" width="694" height="616"/>
+	<SubTexture name="deathLoop0003" x="5720" y="0" width="694" height="616"/>
+	<SubTexture name="deathLoop0004" x="5720" y="0" width="694" height="616"/>
+	<SubTexture name="deathLoop0005" x="5720" y="0" width="694" height="616"/>
+	<SubTexture name="deathLoop0006" x="5720" y="0" width="694" height="616"/>
+	<SubTexture name="deathLoop0007" x="6418" y="0" width="694" height="616"/>
+	<SubTexture name="deathLoop0008" x="5720" y="0" width="694" height="616"/>
+	<SubTexture name="deathLoop0009" x="5720" y="0" width="694" height="616"/>
+	<SubTexture name="deathLoop0010" x="5720" y="0" width="694" height="616"/>
+	<SubTexture name="deathLoop0011" x="5720" y="0" width="694" height="616"/>
+	<SubTexture name="deathLoop0012" x="5720" y="0" width="694" height="616"/>
+	<SubTexture name="deathLoop0013" x="5720" y="0" width="694" height="616"/>
+	<SubTexture name="deathLoop0014" x="5720" y="0" width="694" height="616"/>
+	<SubTexture name="deathLoop0015" x="5720" y="0" width="694" height="616"/>
+	<SubTexture name="deathLoop0016" x="5720" y="0" width="694" height="616"/>
+	<SubTexture name="deathLoop0017" x="5720" y="0" width="694" height="616"/>
+	<SubTexture name="deathLoop0018" x="5720" y="0" width="694" height="616"/>
+	<SubTexture name="deathLoop0019" x="5720" y="0" width="694" height="616"/>
+	<SubTexture name="deathLoop0020" x="5720" y="0" width="694" height="616"/>
+	<SubTexture name="deathLoop0021" x="5720" y="0" width="694" height="616"/>
+	<SubTexture name="deathLoop0022" x="5720" y="0" width="694" height="616"/>
+	<SubTexture name="deathLoop0023" x="5720" y="0" width="694" height="616"/>
+	<SubTexture name="deathLoop0024" x="5720" y="0" width="694" height="616"/>
+	<SubTexture name="deathLoop0025" x="5720" y="0" width="694" height="616"/>
+	<SubTexture name="deathLoop0026" x="5720" y="0" width="694" height="616"/>
+	<SubTexture name="deathLoop0027" x="5720" y="0" width="694" height="616"/>
+	<SubTexture name="deathLoop0028" x="5720" y="0" width="694" height="616"/>
+	<SubTexture name="deathLoop0029" x="5720" y="0" width="694" height="616"/>
+	<SubTexture name="deathLoop0030" x="6418" y="0" width="694" height="616"/>
+	<SubTexture name="deathLoop0031" x="5720" y="0" width="694" height="616"/>
+	<SubTexture name="deathLoop0032" x="5720" y="0" width="694" height="616"/>
+	<SubTexture name="deathLoop0033" x="5720" y="0" width="694" height="616"/>
+</TextureAtlas>
