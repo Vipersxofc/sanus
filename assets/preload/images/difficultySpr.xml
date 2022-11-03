@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="difficultySpr.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="change diff0000" x="0" y="0" width="179" height="130"/>
+	<SubTexture name="change diff0001" x="0" y="0" width="179" height="130"/>
+	<SubTexture name="change diff0002" x="183" y="0" width="179" height="130"/>
+	<SubTexture name="change diff0003" x="366" y="0" width="179" height="130"/>
+	<SubTexture name="change diff0004" x="366" y="0" width="179" height="130"/>
+	<SubTexture name="hard0000" x="549" y="0" width="157" height="129"/>
+	<SubTexture name="normal0000" x="710" y="0" width="157" height="129"/>
+</TextureAtlas>

@@ -1,9 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<TextureAtlas imagePath="titleEnter.png">
-	<!-- Created with Adobe Animate version 21.0.2.37893 -->
+<TextureAtlas imagePath="titleText.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
 	<!-- http://www.adobe.com/products/animate.html -->
-	<SubTexture name="ENTER FREEZE0000" x="8" y="8" width="1477" height="79"/>
-	<SubTexture name="ENTER IDLE0000" x="8" y="95" width="1477" height="79"/>
-	<SubTexture name="ENTER PRESSED0000" x="8" y="8" width="1477" height="79"/>
-	<SubTexture name="ENTER PRESSED0001" x="8" y="182" width="1477" height="79"/>
+	<SubTexture name="ENTER PRESSED0000" x="0" y="0" width="262" height="73"/>
+	<SubTexture name="ENTER PRESSED0001" x="266" y="0" width="262" height="73"/>
+	<SubTexture name="Press Enter to Begin0000" x="266" y="0" width="262" height="73"/>
+	<SubTexture name="Press Enter to Begin0001" x="266" y="0" width="262" height="73"/>
+	<SubTexture name="Press Enter to Begin0002" x="532" y="0" width="262" height="73"/>
+	<SubTexture name="Press Enter to Begin0003" x="532" y="0" width="262" height="73"/>
 </TextureAtlas>

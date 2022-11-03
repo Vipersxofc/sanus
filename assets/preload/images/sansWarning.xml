@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sansWarning.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="cracker0000" x="0" y="0" width="465" height="499"/>
+	<SubTexture name="cracker0001" x="0" y="0" width="465" height="499"/>
+	<SubTexture name="cracker0002" x="469" y="0" width="465" height="499"/>
+	<SubTexture name="cracker0003" x="469" y="0" width="465" height="499"/>
+	<SubTexture name="cracker0004" x="938" y="0" width="465" height="499"/>
+	<SubTexture name="cracker0005" x="938" y="0" width="465" height="499"/>
+	<SubTexture name="cracker0006" x="938" y="0" width="465" height="499"/>
+	<SubTexture name="head0000" x="1407" y="0" width="438" height="423"/>
+	<SubTexture name="head0001" x="1407" y="0" width="438" height="423"/>
+	<SubTexture name="head0002" x="1849" y="0" width="438" height="423"/>
+	<SubTexture name="head0003" x="1849" y="0" width="438" height="423"/>
+</TextureAtlas>
