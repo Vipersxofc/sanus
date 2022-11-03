@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="boombox.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="boombox instância 10000" x="0" y="0" width="280" height="202"/>
+	<SubTexture name="boombox instância 10001" x="284" y="0" width="272" height="201" frameX="-8" frameY="0" frameWidth="280" frameHeight="202"/>
+	<SubTexture name="boombox instância 10002" x="284" y="0" width="272" height="201" frameX="-8" frameY="0" frameWidth="280" frameHeight="202"/>
+	<SubTexture name="boombox instância 10003" x="560" y="0" width="272" height="201" frameX="-8" frameY="0" frameWidth="280" frameHeight="202"/>
+	<SubTexture name="boombox instância 10004" x="560" y="0" width="272" height="201" frameX="-8" frameY="0" frameWidth="280" frameHeight="202"/>
+	<SubTexture name="boombox instância 10005" x="560" y="0" width="272" height="201" frameX="-8" frameY="0" frameWidth="280" frameHeight="202"/>
+	<SubTexture name="boombox instância 10006" x="560" y="0" width="272" height="201" frameX="-8" frameY="0" frameWidth="280" frameHeight="202"/>
+	<SubTexture name="boombox instância 10007" x="560" y="0" width="272" height="201" frameX="-8" frameY="0" frameWidth="280" frameHeight="202"/>
+	<SubTexture name="boombox instância 10008" x="560" y="0" width="272" height="201" frameX="-8" frameY="0" frameWidth="280" frameHeight="202"/>
+	<SubTexture name="boombox instância 10009" x="560" y="0" width="272" height="201" frameX="-8" frameY="0" frameWidth="280" frameHeight="202"/>
+	<SubTexture name="boombox instância 10010" x="560" y="0" width="272" height="201" frameX="-8" frameY="0" frameWidth="280" frameHeight="202"/>
+	<SubTexture name="boombox instância 10011" x="560" y="0" width="272" height="201" frameX="-8" frameY="0" frameWidth="280" frameHeight="202"/>
+	<SubTexture name="boombox instância 10012" x="560" y="0" width="272" height="201" frameX="-8" frameY="0" frameWidth="280" frameHeight="202"/>
+	<SubTexture name="boombox instância 10013" x="560" y="0" width="272" height="201" frameX="-8" frameY="0" frameWidth="280" frameHeight="202"/>
+</TextureAtlas>

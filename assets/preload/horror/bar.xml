@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bar.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Bar Close0000" x="0" y="0" width="2724" height="1696"/>
+	<SubTexture name="Bar Close0001" x="0" y="0" width="2724" height="1696"/>
+	<SubTexture name="Bar Close0002" x="0" y="0" width="2724" height="1696"/>
+	<SubTexture name="Bar Close0003" x="5456" y="1700" width="2724" height="1696"/>
+	<SubTexture name="Bar Close0004" x="5456" y="1700" width="2724" height="1696"/>
+	<SubTexture name="Bar Close0005" x="2728" y="1700" width="2724" height="1696"/>
+	<SubTexture name="Bar Close0006" x="2728" y="1700" width="2724" height="1696"/>
+	<SubTexture name="Bar Close0007" x="0" y="1700" width="2724" height="1696"/>
+	<SubTexture name="Bar Close0008" x="0" y="1700" width="2724" height="1696"/>
+	<SubTexture name="Bar Close0009" x="5455" y="0" width="2724" height="1696"/>
+	<SubTexture name="Bar Close0010" x="5455" y="0" width="2724" height="1696"/>
+	<SubTexture name="Bar Close0011" x="2728" y="0" width="2723" height="1695"/>
+	<SubTexture name="Bar Close0012" x="2728" y="0" width="2723" height="1695"/>
+	<SubTexture name="Bar Close0013" x="2728" y="0" width="2723" height="1695"/>
+	<SubTexture name="Bar Door0000" x="0" y="0" width="2724" height="1696"/>
+	<SubTexture name="Bar Normal0000" x="2728" y="0" width="2723" height="1695"/>
+	<SubTexture name="Bar Open0000" x="2728" y="0" width="2723" height="1695"/>
+	<SubTexture name="Bar Open0001" x="2728" y="0" width="2723" height="1695"/>
+	<SubTexture name="Bar Open0002" x="2728" y="0" width="2723" height="1695"/>
+	<SubTexture name="Bar Open0003" x="5455" y="0" width="2724" height="1696"/>
+	<SubTexture name="Bar Open0004" x="5455" y="0" width="2724" height="1696"/>
+	<SubTexture name="Bar Open0005" x="0" y="1700" width="2724" height="1696"/>
+	<SubTexture name="Bar Open0006" x="0" y="1700" width="2724" height="1696"/>
+	<SubTexture name="Bar Open0007" x="2728" y="1700" width="2724" height="1696"/>
+	<SubTexture name="Bar Open0008" x="2728" y="1700" width="2724" height="1696"/>
+	<SubTexture name="Bar Open0009" x="5456" y="1700" width="2724" height="1696"/>
+	<SubTexture name="Bar Open0010" x="5456" y="1700" width="2724" height="1696"/>
+	<SubTexture name="Bar Open0011" x="0" y="0" width="2724" height="1696"/>
+	<SubTexture name="Bar Open0012" x="0" y="0" width="2724" height="1696"/>
+	<SubTexture name="Bar Open0013" x="0" y="0" width="2724" height="1696"/>
+</TextureAtlas>

@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="background.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Background Close0000" x="0" y="0" width="2724" height="1696"/>
+	<SubTexture name="Background Close0001" x="5452" y="1700" width="2722" height="1696"/>
+	<SubTexture name="Background Close0002" x="5452" y="1700" width="2722" height="1696"/>
+	<SubTexture name="Background Close0003" x="5452" y="1700" width="2722" height="1696"/>
+	<SubTexture name="Background Close0004" x="2726" y="1700" width="2722" height="1696"/>
+	<SubTexture name="Background Close0005" x="2726" y="1700" width="2722" height="1696"/>
+	<SubTexture name="Background Close0006" x="0" y="1700" width="2722" height="1696"/>
+	<SubTexture name="Background Close0007" x="5455" y="0" width="2722" height="1696"/>
+	<SubTexture name="Background Close0008" x="2728" y="0" width="2723" height="1696"/>
+	<SubTexture name="Background Close0009" x="2728" y="0" width="2723" height="1696"/>
+	<SubTexture name="Background Close0010" x="2728" y="0" width="2723" height="1696"/>
+	<SubTexture name="Background Door0000" x="0" y="0" width="2724" height="1696"/>
+	<SubTexture name="Background Normal0000" x="2728" y="0" width="2723" height="1696"/>
+	<SubTexture name="Background Open0000" x="2728" y="0" width="2723" height="1696"/>
+	<SubTexture name="Background Open0001" x="2728" y="0" width="2723" height="1696"/>
+	<SubTexture name="Background Open0002" x="2728" y="0" width="2723" height="1696"/>
+	<SubTexture name="Background Open0003" x="5455" y="0" width="2722" height="1696"/>
+	<SubTexture name="Background Open0004" x="5455" y="0" width="2722" height="1696"/>
+	<SubTexture name="Background Open0005" x="0" y="1700" width="2722" height="1696"/>
+	<SubTexture name="Background Open0006" x="2726" y="1700" width="2722" height="1696"/>
+	<SubTexture name="Background Open0007" x="5452" y="1700" width="2722" height="1696"/>
+	<SubTexture name="Background Open0008" x="5452" y="1700" width="2722" height="1696"/>
+	<SubTexture name="Background Open0009" x="0" y="0" width="2724" height="1696"/>
+	<SubTexture name="Background Open0010" x="0" y="0" width="2724" height="1696"/>
+	<SubTexture name="Background Open0011" x="0" y="0" width="2724" height="1696"/>
+</TextureAtlas>
